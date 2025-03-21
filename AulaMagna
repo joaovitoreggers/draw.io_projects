@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ITQWttSi2uPjBveP_UpS-57" value="" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3972" y="1839" width="2636" height="1648" as="geometry" />
+        </mxCell>
+        <mxCell id="ITQWttSi2uPjBveP_UpS-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="5260" y="2134" width="1280" height="1280" as="geometry" />
+        </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-76" value="" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3960" y="-1458" width="1344" height="1484" as="geometry" />
         </mxCell>
@@ -218,9 +224,6 @@
         <mxCell id="ITQWttSi2uPjBveP_UpS-94" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ITQWttSi2uPjBveP_UpS-57" target="ITQWttSi2uPjBveP_UpS-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ITQWttSi2uPjBveP_UpS-57" value="" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3972" y="1839" width="2636" height="1648" as="geometry" />
-        </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-59" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4074" y="2130" width="768" height="1112" as="geometry" />
         </mxCell>
@@ -265,20 +268,14 @@
         <mxCell id="ITQWttSi2uPjBveP_UpS-69" value="int[] idades = new int[10];" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=130;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="2057" y="2673" width="1604" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="ITQWttSi2uPjBveP_UpS-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ITQWttSi2uPjBveP_UpS-70" target="ITQWttSi2uPjBveP_UpS-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-70" value="idades" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=130;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4238" y="2155" width="440" height="242" as="geometry" />
         </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-72" value="heap" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=130;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="5793" y="1900" width="452" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ITQWttSi2uPjBveP_UpS-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="5260" y="2134" width="1280" height="1280" as="geometry" />
-        </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-74" value="new int[10]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=130;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="5319" y="2397" width="668" height="190" as="geometry" />
+          <mxGeometry x="5605" y="2543" width="668" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ITQWttSi2uPjBveP_UpS-78" target="ITQWttSi2uPjBveP_UpS-91">
           <mxGeometry relative="1" as="geometry" />
@@ -297,6 +294,9 @@
         </mxCell>
         <mxCell id="ITQWttSi2uPjBveP_UpS-95" value="​&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem]&quot;&gt;Em arquiteturas de 64 bits, os ponteiros de memória ocupam 64 bits (8 bytes), permitindo o endereçamento de grandes espaços de memória.&lt;/span&gt; &lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem]&quot;&gt;No entanto, essa capacidade aumentada vem com um custo: o uso de mais memória para armazenar cada referência, o que pode levar a um desperdício significativo, especialmente em aplicações que utilizam grandes quantidades de objetos.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=90;" vertex="1" parent="1">
           <mxGeometry x="8529" y="2088" width="2983" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ITQWttSi2uPjBveP_UpS-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ITQWttSi2uPjBveP_UpS-70" target="ITQWttSi2uPjBveP_UpS-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
